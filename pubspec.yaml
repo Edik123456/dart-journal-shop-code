@@ -1,0 +1,6 @@
+name: dart_journal_shop_code
+description: Код для магазина газет и журналов на языке dart
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
